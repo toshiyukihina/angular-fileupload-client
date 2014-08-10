@@ -1,0 +1,11 @@
+[
+  {"name":"Test Device 1","sn":"SN:10001","description":"テストデバイス1"},
+  {"name":"Test Device 2","sn":"SN:10002","description":"テストデバイス2"},
+  {"name":"Test Device 3","sn":"SN:10003","description":"テストデバイス3"},
+  {"name":"Test Device 4","sn":"SN:10004","description":"テストデバイス4"},
+  {"name":"Test Device 5","sn":"SN:10005","description":"テストデバイス5"},
+  {"name":"Test Device 6","sn":"SN:10006","description":"テストデバイス6"},
+  {"name":"Test Device 7","sn":"SN:10007","description":"テストデバイス7"},
+  {"name":"Test Device 8","sn":"SN:10008","description":"テストデバイス8"},
+  {"name":"Test Device 9","sn":"SN:10009","description":"テストデバイス9"}
+]
